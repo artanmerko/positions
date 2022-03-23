@@ -1,0 +1,2 @@
+# positions
+fixed vs sticky 
